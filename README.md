@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Ragab</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate fullstack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr918343&label=Profile%20views&color=0e75b6&style=flat" alt="amr918343" /> </p>
 
